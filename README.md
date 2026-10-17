@@ -1,18 +1,13 @@
-Disciplina: **PPEE2017 - Tópicos em Segurança Cibernética 5**  
-Curso: **Mestrado Profissional em Engenharia Elétrica (PPEE)**  
-Instituição: **Universidade de Brasília (UnB)**  
-Departamento: **Engenharia Elétrica**  
-Professor Responsável: **Prof. Dr. Laerte Peotta de Melo**
-
----
-
 # PPEE2017 - Tópicos em Segurança Cibernética 5
 
-Repositório oficial da disciplina **PPEE2017 - Tópicos em Segurança Cibernética 5** (Tópicos Avançados em Cyber Segurança), do Mestrado Profissional em Engenharia Elétrica (PPEE) da UnB, com foco em quatro pilares: **Cibercrime**, **Guerra Cibernética**, **Fraudes Digitais** e **Cyber Threat Intelligence (CTI)**.
+- **Instituição:** Universidade de Brasília (UnB)
+- **Departamento:** Departamento de Engenharia Elétrica (ENE)
+- **Curso:** Mestrado Profissional em Engenharia Elétrica (PPEE)
+- **Disciplina:** PPEE2017 - Tópicos em Segurança Cibernética 5
+- **Professor responsável:** Prof. Dr. Laerte Peotta de Melo
 
 ---
-
-## Ementa
+## 1. Ementa
 
 Esta disciplina oferece uma abordagem aprofundada sobre os principais desafios e domínios críticos da segurança digital contemporânea, com foco em quatro pilares centrais: Cibercrime, Guerra Cibernética, Fraudes Digitais e Cyber Threat Intelligence (CTI). São discutidos os modelos organizacionais dos grupos cibercriminosos, suas motivações e modos operandi, além de estratégias estatais de guerra cibernética, incluindo ataques a infraestruturas críticas e operações híbridas.
 
@@ -22,11 +17,11 @@ O curso adota uma perspectiva interdisciplinar, combinando aspectos técnicos, i
 
 ---
 
-## Objetivo Geral
+## 2. Objetivo Geral
 
 Capacitar os participantes a compreender, analisar e aplicar estratégias técnicas, investigativas e estratégicas no enfrentamento ao cibercrime, à guerra cibernética e às fraudes digitais, utilizando abordagens avançadas de Cyber Threat Intelligence (CTI) para antecipar ameaças, fortalecer a defesa digital e apoiar a tomada de decisões em ambientes complexos e de risco elevado.
 
-## Objetivos Específicos
+## 3. Objetivos Específicos
 
 - Compreender criticamente a evolução e a estrutura do cibercrime, identificando atores, motivações, ecossistemas criminosos e seus impactos sobre instituições públicas e privadas.
 - Analisar o papel da guerra cibernética no cenário geopolítico atual, compreendendo suas estratégias, atores estatais e o uso de operações híbridas contra infraestruturas críticas.
@@ -36,7 +31,7 @@ Capacitar os participantes a compreender, analisar e aplicar estratégias técni
 
 ---
 
-## Tópicos
+## 4. Tópicos
 
 - Estrutura, motivações e economia do cibercrime moderno
 - APTs e o uso de *malwares* em operações cibercriminosas e militares
@@ -46,7 +41,7 @@ Capacitar os participantes a compreender, analisar e aplicar estratégias técni
 - Ferramentas de automação, análise e resposta (SOAR, EDR, SIEM)
 - Modelos de defesa nacional e estratégias de resiliência digital
 
-## Aulas
+## 5. Aulas
 
 | Aula | Tema |
 |:----:|:-----|
@@ -59,12 +54,12 @@ Capacitar os participantes a compreender, analisar e aplicar estratégias técni
 
 ---
 
-## Metodologia
+## 6. Metodologia
 
 - Aulas expositivas complementadas por estudos de caso e laboratórios práticos de simulação de ataques e defesas.
 - Aprendizagem Baseada em Problemas (PBL) e em Projetos (ABP): os alunos recebem um problema real ou simulado para resolver com os conhecimentos adquiridos ao longo do curso.
 
-## Avaliação
+## 7. Avaliação
 
 A avaliação é continuada, considerando a participação nas questões propostas e nas discussões em aula, e processual, por meio de um trabalho em grupo desenvolvido ao longo do curso.
 
@@ -75,16 +70,16 @@ A avaliação é continuada, considerando a participação nas questões propost
 
 ---
 
-## Bibliografia
+## 8. Bibliografia
 
-### Básica
+### 8.1 Básica
 
 - STALLINGS, W. **Data and Computer Communications.** 10. ed. Pearson, 2013.
 - SCHNEIER, B. **Applied Cryptography: Protocols, Algorithms, and Source Code in C.** 2. ed. Wiley, 1996.
 - KUROSE, J. F.; ROSS, K. W. **Redes de computadores e a internet: uma abordagem top-down.** 8. ed. Porto Alegre: Bookman, 2021.
 - NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Security and Privacy Controls for Information Systems and Organizations.** Special Publication 800-53 Revision 5. Gaithersburg, MD: NIST, 2020. Disponível em: <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf>.
 
-### Complementar
+### 8.2 Complementar
 
 - GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA (GSI/PR). **Estratégia Nacional de Segurança Cibernética (e-Ciber).** Brasília: GSI/PR, 2020.
 - SCHNEIER, B. **Clique Aqui Para Matar Todo Mundo: Como Sobreviver em um Mundo Hiperconectado.** 1. ed. Alta Books, 2020.
@@ -103,6 +98,6 @@ A avaliação é continuada, considerando a participação nas questões propost
 
 ---
 
-## Uso de Inteligência Artificial
+## 9. Uso de Inteligência Artificial
 
 Em conformidade com a Política de Uso Responsável da IA da FT/UnB, declara-se que este material foi elaborado com apoio de ferramentas de inteligência artificial generativa (Claude, ChatGPT e Gemini), sob revisão e responsabilidade do professor.
